@@ -3,8 +3,8 @@
   
   ## Bubble Algorithm
     Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
-    *[Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnViYmxlX3NvcnQ)
-    *[GeeksForGeeks](http://www.geeksforgeeks.org/bubble-sort/)
+    * [Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnViYmxlX3NvcnQ)
+    * [GeeksForGeeks](http://www.geeksforgeeks.org/bubble-sort/)
     <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bubblesort-edited-color.svg/330px-Bubblesort-edited-color.svg.png" alt="bash logo"/>
 </p>
