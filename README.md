@@ -4,7 +4,7 @@
 # Contents
   1. [Bubble Sort](#bubble-sort)
   2. [Heap Sort](#heap-sort)
-  3. [Instertion Sort](#instertion-sort)
+  3. [Instertion Sort](#Instertion-sort)
   4. [Merge Sort](#merge-sort)
   5. [Quick Sort](#quick-sort)
   6. [Selection Sort](#selection-sort)
