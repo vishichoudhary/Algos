@@ -1,7 +1,15 @@
 # Algos
   This repository contains 6 C++ programs that sorts arrays with diffrent algroithms.
   
-## Bubble Algorithm
+# Contents
+  1. [Bubble Sort](#bubble-sort)
+  2. [Heap Sort](#heap-sort)
+  3. [Instertion Sort](#instertion-sort)
+  4. [Merge Sort](#merge-sort)
+  5. [Quick Sort](#quick-sort)
+  6. [Selection Sort](#selection-sort)
+  
+## Bubble Sort
   Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 * [Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnViYmxlX3NvcnQ)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/bubble-sort/)
