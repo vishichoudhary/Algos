@@ -6,7 +6,7 @@
 * [Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnViYmxlX3NvcnQ)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/bubble-sort/)
     <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bubblesort-edited-color.svg/330px-Bubblesort-edited-color.svg.png" alt="bash logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bubblesort-edited-color.svg/330px-Bubblesort-edited-color.svg.png" alt="bubble"/>
 </p>
   
 ## Heap Sort
@@ -14,7 +14,7 @@ Heap sort is a comparison based sorting technique based on Binary Heap data stru
 * [Wikipedia](https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVhcHNvcnQ)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/heap-sort/)
     <p align="center">
-  <img src="https://en.wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzEvMWIvU29ydGluZ19oZWFwc29ydF9hbmltLmdpZg" alt="bash logo"/>
+  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzEvMWIvU29ydGluZ19oZWFwc29ydF9hbmltLmdpZg" alt="heap"/>
 </p>
 
 ## Insertion Sort
@@ -22,7 +22,7 @@ Insertion sort is a simple sorting algorithm that works the way we sort playing 
 * [Wikipedia](https://en.0wikipedia.org/wiki/Insertion_sort)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/insertion-sort/)
     <p align="center">
-  <img src="http://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Insertion-Sort-300x257.jpg" alt="bash logo"/>
+  <img src="http://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Insertion-Sort-300x257.jpg" alt="instertion"/>
 </p>
     
 ## Merge Sort
@@ -30,7 +30,7 @@ Like QuickSort, Merge Sort is a Divide and Conquer algorithm. It divides input a
 * [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/merge-sort/)
     <p align="center">
-  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL2MvY2MvTWVyZ2Utc29ydC1leGFtcGxlLTMwMHB4LmdpZg" alt="bash logo"/>
+  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL2MvY2MvTWVyZ2Utc29ydC1leGFtcGxlLTMwMHB4LmdpZg" alt="merge"/>
 </p>
 
 ## Quick Sort
@@ -44,7 +44,7 @@ The key process in quickSort is partition(). Target of partitions is, given an a
 * [Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUXVpY2tzb3J0)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/quick-sort/)
     <p align="center">
-  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzYvNmEvU29ydGluZ19xdWlja3NvcnRfYW5pbS5naWY" alt="bash logo"/>
+  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzYvNmEvU29ydGluZ19xdWlja3NvcnRfYW5pbS5naWY" alt="quick"/>
 </p>
 
 ## Selection Sort
@@ -57,5 +57,5 @@ In every iteration of selection sort, the minimum element (considering ascending
 * [Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU2VsZWN0aW9uX3NvcnQ)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/selection-sort/)
     <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif" alt="bash logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif" alt="selection"/>
 </p>
