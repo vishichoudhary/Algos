@@ -5,9 +5,10 @@
 void main()
 {
 	clrscr();
-	int size, arr[50], i, j, temp;
+	int size,i, j, temp;
 	cout<<"Enter Array Size : ";
 	cin>>size;
+	int arr[size];
 	cout<<"Enter Array Elements : ";
 	for(i=0; i<size; i++)
 	{
