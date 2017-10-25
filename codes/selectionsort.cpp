@@ -3,9 +3,10 @@
 
 void main()
 {
-     int a[50], n,i,j;
+     int n,i,j;
      cout<<"\nEnter the size of list: ";
      cin>>n;
+     int a[n];
      cout<<"Enter "<<n<<" values: ";
      for(i=0; i<n; i++)
            cin>> a[i];
