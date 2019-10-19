@@ -54,7 +54,7 @@ The key process in quickSort is partition(). Target of partitions is, given an a
 * [Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/quick-sort/)
     <p align="center">
-  <img src="https://en.wikipedia.org/wiki/File:Sorting_quicksort_anim.gif" alt="quick"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif" alt="quick"/>
 </p>
 
 ## Selection Sort
