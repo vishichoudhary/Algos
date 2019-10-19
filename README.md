@@ -9,7 +9,7 @@
   5. [Quick Sort](#quick-sort)
   6. [Selection Sort](#selection-sort)
   
-[Animation of various sorting Algorithms](https://visualgo.net/bn/sorting)
+**[Animation of various sorting Algorithms](https://visualgo.net/bn/sorting)**
 
 ## Bubble Sort
   Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
@@ -24,7 +24,7 @@ Heap sort is a comparison based sorting technique based on Binary Heap data stru
 * [Wikipedia](https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVhcHNvcnQ)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/heap-sort/)
     <p align="center">
-  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzEvMWIvU29ydGluZ19oZWFwc29ydF9hbmltLmdpZg" alt="heap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Heapsort-example.gif" alt="heap"/>
 </p>
 
 ## Insertion Sort
