@@ -1,7 +1,7 @@
 #include<iostream>
-#include<iomanip.h>
 
-void main()
+using namespace std; 
+int main()
 {
      int a[50], n,i,j;
      cout<<"\nEnter the size of list: ";
@@ -19,5 +19,5 @@ void main()
                  }
      cout<<"\nArranged list is: ";
      for(i=0; i<n; i++)
-           cout<< setw(5) << a[i];
+           cout<< a[i];
 }
