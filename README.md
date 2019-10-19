@@ -9,6 +9,9 @@
   5. [Quick Sort](#quick-sort)
   6. [Selection Sort](#selection-sort)
   7. [Radix Sort](#radix-sort)
+  8. [Linear Search](#linear-search)
+  9. [Binary Search](#binary-search)
+  
   
 ## Bubble Sort
   Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
@@ -76,3 +79,20 @@ Radix sort is a specific type of bucket sort. It starts with the top n-bit or n-
     <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuLIT18j4aLlU8kU63WJ9zvOv47feBhzKkABIoQlelzuyo57q"/>
 </p>
+
+## Linear Search
+A linear search sequentially checks each element of the list until it finds an element that matches the target value. If the algorithm reaches the end of the list, the search terminates unsuccessfully.
+* [Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/linear-search/)
+ <p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZwtwq3pl8py6ZQOk1oggp-fMV5_jxVzqFIKPOQYqPw7feoNd"/>
+</p>
+
+## Binary Search
+Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise narrow it to the upper half. Repeatedly check until the value is found or the interval is empty.
+* [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/binary-search/)
+ <p align="center">
+  <img src="https://www.geeksforgeeks.org/wp-content/uploads/Binary-Search.png"/>
+</p>
+
