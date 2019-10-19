@@ -1,5 +1,5 @@
 # Algos
-  This repository contains 6 C++ programs that sorts arrays with diffrent algroithms.
+  This repository contains C++ sorting and searching algorithms in arrays.
   
 # Contents
   1. [Bubble Sort](#bubble-sort)
@@ -8,6 +8,7 @@
   4. [Merge Sort](#merge-sort)
   5. [Quick Sort](#quick-sort)
   6. [Selection Sort](#selection-sort)
+  7. [Radix Sort](#radix-sort)
   
 ## Bubble Sort
   Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
@@ -66,4 +67,12 @@ In every iteration of selection sort, the minimum element (considering ascending
 * [GeeksForGeeks](http://www.geeksforgeeks.org/selection-sort/)
     <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif" alt="selection"/>
+</p>
+
+## Radix Sort
+Radix sort is a specific type of bucket sort. It starts with the top n-bit or n-digits and may sort those buckets using a radix sort etc, until every entry is sorted. 
+* [Wikipedia](https://en.wikipedia.org/wiki/Radix_sort)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/radix-sort/)
+    <p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuLIT18j4aLlU8kU63WJ9zvOv47feBhzKkABIoQlelzuyo57q"/>
 </p>
