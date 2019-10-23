@@ -67,3 +67,11 @@ In every iteration of selection sort, the minimum element (considering ascending
     <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif" alt="selection"/>
 </p>
+
+## Tim Sort
+Tim Sort is a Hybrid Sort used by Java and Python. The sorting algorithms like Quick Sort and Merge Sort even though being asymtotically best lack performance whenit comes to small data chunks as they have high constant factors. So to avoid this issue after a lot of experimentation and inferences a hybrid algorithm is designed which first breaks down the chunks into 32-64 sized chunks. Then algorithm applies insertionSort on each of the chunks. After applying insertion sort it applies merge operation on all the smaller chunks.
+The actual algorithm also uses the nature of the data to select chunks and dynamically selects chunks. The chunks are sorted using Binary Insertion Sort. 
+
+In every iteration of selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray.
+* [Wikipedia](https://en.wikipedia.org/wiki/Timsort)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/timsort/)
