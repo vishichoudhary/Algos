@@ -9,6 +9,8 @@
   5. [Quick Sort](#quick-sort)
   6. [Selection Sort](#selection-sort)
   
+**[Animation of various sorting Algorithms](https://visualgo.net/bn/sorting)**
+
 ## Bubble Sort
   Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 * [Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnViYmxlX3NvcnQ)
@@ -22,7 +24,7 @@ Heap sort is a comparison based sorting technique based on Binary Heap data stru
 * [Wikipedia](https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVhcHNvcnQ)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/heap-sort/)
     <p align="center">
-  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzEvMWIvU29ydGluZ19oZWFwc29ydF9hbmltLmdpZg" alt="heap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Heapsort-example.gif" alt="heap"/>
 </p>
 
 ## Insertion Sort
@@ -38,7 +40,7 @@ Like QuickSort, Merge Sort is a Divide and Conquer algorithm. It divides input a
 * [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/merge-sort/)
     <p align="center">
-  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL2MvY2MvTWVyZ2Utc29ydC1leGFtcGxlLTMwMHB4LmdpZg" alt="merge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" alt="merge"/>
 </p>
 
 ## Quick Sort
@@ -49,10 +51,10 @@ Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an elemen
 -Pick a random element as pivot.
 -Pick median as pivot.
 The key process in quickSort is partition(). Target of partitions is, given an array and an element x of array as pivot, put x at its correct position in sorted array and put all smaller elements (smaller than x) before x, and put all greater elements (greater than x) after x. All this should be done in linear time.
-* [Wikipedia](https://en.wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUXVpY2tzb3J0)
+* [Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
 * [GeeksForGeeks](http://www.geeksforgeeks.org/quick-sort/)
     <p align="center">
-  <img src="https://en.0wikipedia.org/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzYvNmEvU29ydGluZ19xdWlja3NvcnRfYW5pbS5naWY" alt="quick"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif" alt="quick"/>
 </p>
 
 ## Selection Sort
